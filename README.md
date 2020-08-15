@@ -38,9 +38,10 @@ The dataset we used in this project is available with the following headings.
     * Non-Drone acoustic profiles collected experimentally and scraped from YouTube videos.
     * Scraped from YouTube videos - **Busy Road Noise**, **Airplane Sounds**, **Hair Dryer**, **Rain**, **Bird Sounds**, and **Human Speech**.
     * Experimentally collected - **Calm Environment** 
-    * *Training* - 270s; *Validation* - 90s; *Test* - 90s; scraped from 3 different YouTube videos/ captured on 3 different sessions.
+    * *Training* - 270s; *Validation* - 90s; *Test* - 90s; scraped from 5 different YouTube videos/ captured on 5 different sessions.
 1. DS3: 
-    * Online downloaded acoustic signals (from https://www.soundsnap.com/) that consist of various mechanical sound; 7 unknown drone sounds (**AIrHogs: DR1FPV Race**, **Blade: NanoQX**, **ZeroZero: Falcon**, **DJI: Inspire1**, **DJI: MavicMini**, **DJI: Phantom3**, **Syma: X5SW**); 5 non-drone mechanical sounds (**Helicopter**, **Motorcycle**, **Lawn Mover**, **Air Blower**, and **Car**); and 2 natural background noise (**Slight Breeze** and **Bees Humming**) that were not used in training.
+    * Online downloaded acoustic signals (from https://www.soundsnap.com/) that consist of various mechanical sound; 7 unknown drone sounds (**AIrHogs: DR1FPV Race**, **Blade: NanoQX**, **ZeroZero: Falcon**, **DJI: Inspire1**, **DJI: MavicMini**, **DJI: Phantom3**, **Syma: X5SW**); 
+    * Scraped from YouTube videos - 5 non-drone mechanical sounds (**Helicopter**, **Motorcycle**, **Lawn Mover**, **Air Blower**, and **Car**); and 2 natural background noise (**Slight Breeze** and **Bees Humming**) that were not used in training.
     * *Test* - 30s; 
     
 
