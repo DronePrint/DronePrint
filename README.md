@@ -51,4 +51,6 @@ The dataset we used in this project is available with the following headings. Th
     
 
 
-* *Training* and *Validation* samples are augmented with frequency warping techniques. Each sample is scaled 21 times along in the time axis and in amplitude by  values ranging from 0.8 to 1.2 with 0.02 steps,.
+* *Training* and *Validation* samples are augmented with frequency warping techniques. Each sample is scaled 21 times along in the time axis and in amplitude by  values ranging from 0.8 to 1.2 with 0.02 steps.
+* The usage of the datasets in DronePrint is shown below.
+![Usage of the Datasets](/Images/Dataset.png)
