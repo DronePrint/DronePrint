@@ -17,13 +17,13 @@ https://www.youtube.com/watch?v=s9kNu…
 
 ## Introduction
 *DronePrint* generates signature acoustic profiles for different classes of drones by using machine learning technologies that is capable of identify an incomming acoustic signal is from a drone or not, and identify the drone make and model. The overview of the system architecture is shown below.
-![DronePrint Training](/Images/Train.png)
-![DronePrint Testing](/Images/Test.png)
+![DronePrint Training](/Images/Train.png width="100")
+![DronePrint Testing](/Images/Test.png width="400" height="790")
 
 ## Dataset
 The dataset we used in this project is available with the following headings. The experimental data collection setup is as shown below.
-![Data collection in the field](/Images/Picture 1.png)
-![Experimental setup](/Images/Picture 2.png)
+![Data collection in the field](/Images/Picture1.png)
+![Experimental setup](/Images/Picture2.png)
 
 1. DS1:
    1. Experimentally-Captured:
